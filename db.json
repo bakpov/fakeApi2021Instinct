@@ -1,0 +1,48 @@
+{
+    "attractions": [
+        {
+            "id": 1,
+            "image": "https://i.picsum.photos/id/411/300/200.jpg?hmac=ev1VWFFqewY_uqDLshz8OuswpnW_0jYPN07LYuNvcB4",
+            "title": "Phnom Penh",
+            "teaser": "Phnom Penh is the city of Cambodia"
+        },
+        {
+            "id": 2,
+            "image": "https://i.picsum.photos/id/234/300/200.jpg?hmac=vg2yY7MnUxGjdH--8pWCS_zB3LM-YXteAhsk5hOKa0g",
+            "title": "Kampong Spue",
+            "teaser": "Kampong Spue is the province of Camboidia"
+        },
+        {
+            "id": 3,
+            "image": "https://i.picsum.photos/id/600/300/200.jpg?hmac=PWexYteIqCRJi5CLmnhEtNKWYBMAC0g65O1e9EfaB1g",
+            "title": "Siem Reap",
+            "teaser": "Siem Reap is the province of Camboidia"
+        },
+        {
+            "id": 4,
+            "image": "https://i.picsum.photos/id/736/300/200.jpg?hmac=VMEBbfgnuOtJXS_RYVlSfGKd37uTDHtHcqWbvaXnBI8",
+            "title": "Kampot",
+            "teaser": "Kampot is the province of Camboidia"
+        }
+    ],
+    "most_visit_attration": [
+        {
+            "id": 1,
+            "image": "https://i.picsum.photos/id/866/300/200.jpg?hmac=vwkhhp_0HQtgJfxWytDiH1t2GX4YyYyWs3_18hlicBY",
+            "title": "Kampong Chnang",
+            "teaser": "Kampong Chnang is the city of Cambodia"
+        },
+        {
+            "id": 2,
+            "image": "https://i.picsum.photos/id/1009/300/200.jpg?hmac=ylPtCmzmDQqOyCKacjGk30nzAn7JjMT66-xkdS91kig",
+            "title": "Kampong Cham",
+            "teaser": "Kampng Cham is the province of Camboidia"
+        },
+        {
+            "id": 3,
+            "image": "https://i.picsum.photos/id/557/300/200.jpg?hmac=I8VNA3M1ZqTqbZSYqF9cmYLFC0PTsH4jtvDB-I26M2Q",
+            "title": "Kampong Sorm",
+            "teaser": "Kampong Sorm is the province of Camboidia"
+        }
+    ]
+}
